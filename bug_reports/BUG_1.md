@@ -21,5 +21,5 @@ The system should process the registration request. If successful, it should dis
 ## Browser and Environment
 
 - **Browser**: Chrome Version 100.0.0
-- **Operating System**: MacOS
+- **Operating System**: macOS
 - **Test Environment**: Development (DEV)
