@@ -9,6 +9,7 @@ Contents
     •	Test Scenarios: Structured and detailed test cases covering various functionalities.
     •	Regression Checklists: Thorough checklists designed to ensure existing features remain unaffected by new changes.
     •	Bug Reports: Clear and concise documentation of issues, including description, steps to reproduce and expected results.
+    • Automated Test with Playwright: Example of an automated test using Playwright to demonstrate testing capabilities.
 
 Each section is organized to provide a clear understanding of my testing process and the level of detail I maintain in my work.
 
